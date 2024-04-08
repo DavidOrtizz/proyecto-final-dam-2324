@@ -35,6 +35,7 @@ Cada alumno debe editar este fichero y hacer una pull request a este repositorio
 * Muñoz García, Pablo Javier - [uSure](https://github.com/PabloJavier22/TFG_uSure-)
 * Pop, Iount Grigore - [Selecta](https://github.com/popionut/Selecta)
 * Reina Romero, Jorge - [GoodLook](https://github.com/JorgeReina/GoodLook)
+* Ortiz Corchero, David - [Sora](https://github.com/DavidOrtizz/TFG-Sora)
 ----------------------------------
 Convocatoria extraordinaria:
 
